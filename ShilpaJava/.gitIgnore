@@ -1,0 +1,7 @@
+*.iml
+../*.iml
+target/
+.idea/
+../.idea/
+../.DS_Store
+../IdeaProjects.iml
