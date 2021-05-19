@@ -1,4 +1,4 @@
-package com.shilpa;
+package com.shilpa.JavaIntroduction;
 import java.util.Scanner;
 
 public class EasyProblem2 {

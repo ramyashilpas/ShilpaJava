@@ -1,4 +1,4 @@
-package com.shilpa;
+package com.shilpa.JavaIntroduction;
 
 import java.util.Scanner;
 
@@ -8,7 +8,6 @@ public class EasyProblem3 {
         int i = scan.nextInt();
         double d = scan.nextDouble();
         String s = scan.nextLine();
-           s= scan.nextLine();
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);

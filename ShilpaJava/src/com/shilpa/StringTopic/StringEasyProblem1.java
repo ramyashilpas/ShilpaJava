@@ -1,4 +1,4 @@
-package com.shilpa;
+package com.shilpa.StringTopic;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.Style;

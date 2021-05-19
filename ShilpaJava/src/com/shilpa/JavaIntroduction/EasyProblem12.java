@@ -1,4 +1,4 @@
-package com.shilpa;
+package com.shilpa.JavaIntroduction;
 
 import javax.print.DocFlavor;
 import java.text.FieldPosition;

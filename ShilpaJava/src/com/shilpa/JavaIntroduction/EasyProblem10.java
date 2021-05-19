@@ -1,6 +1,5 @@
-package com.shilpa;
+package com.shilpa.JavaIntroduction;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class EasyProblem10 {

@@ -1,4 +1,4 @@
-package com.shilpa;
+package com.shilpa.JavaIntroduction;
 
 public class TestJava {
     public static void main(String[] args) {
