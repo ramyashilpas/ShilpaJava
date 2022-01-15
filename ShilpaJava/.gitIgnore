@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 target/
 *.iml
 =======
 *.iml
 ../*.iml
 target/
->>>>>>> adb48470963463fede2e9af7c27fe97ab0a37b17
+
 .idea/
 ../.idea/
 ../.DS_Store
