@@ -5,108 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8405fad7-8744-47e0-b606-eeb930bd7e6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.html.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Deposit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/MiniStatement.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbcp2-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-pool2-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jsp-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Withdraw.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/amttransfer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/checkbalance.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/closeaccount.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header5.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header6.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/header7.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/home1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/images/barc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/images/barclays.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/images/logobarclays.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery-3.1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/newaccount.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/viewprofile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/AmountTransfer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/CheckBal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/Createaccount1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/Deposit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/MiniStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/ViewProfile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/Withdraw1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/aa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/closeaccount1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/controller/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/AmountTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/CheckBal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/Createaccount1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/MiniStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/ViewProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/Withdraw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/closeaccount1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/js/npm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProblems/.gitIgnore" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProblems/.gitIgnore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitIgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
