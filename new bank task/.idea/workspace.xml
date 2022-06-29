@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8405fad7-8744-47e0-b606-eeb930bd7e6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitIgnore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8405fad7-8744-47e0-b606-eeb930bd7e6f" name="Changes" comment="Committing .gitIgnore and some modified files to BankProject(new bank task) project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,6 +197,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656448203294</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committing .gitIgnore and some modified files to BankProject(new bank task) project">
+      <created>1656532717235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656532717236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +220,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Committing .gitIgnore and some modified files to BankProject(new bank task) project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing .gitIgnore and some modified files to BankProject(new bank task) project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new_bank_task$.ic" NAME=" Coverage Results" MODIFIED="1656455702897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
