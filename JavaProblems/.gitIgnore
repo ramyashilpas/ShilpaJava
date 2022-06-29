@@ -1,13 +1,18 @@
+../.idea
+*.iml
+../out
 
 target/
 *.iml
 *.class
 out/
 *.iml
-../*.iml
 target/
 
 .idea/
 ../.idea/
 ../.DS_Store
 ../IdeaProjects.iml
+
+../.DS_Store
+../JavaProblems/.DS_Store
